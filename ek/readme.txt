@@ -1,0 +1,1 @@
+kordinat noktalarını krdnt.txt dosyası içerisine 1. x 2. y kordinatı olmak üzere  her bir sayının aralarında  boşluk bırakılarak yazmanız gerekmektedir.  
